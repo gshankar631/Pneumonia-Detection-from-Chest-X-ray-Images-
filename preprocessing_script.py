@@ -63,7 +63,7 @@ def save_image(img, output_path):
 
 
 base_input = r'C:\Users\user\OneDrive - University of Hertfordshire\project\archive\chest_xray'
-base_output = r'C:\Users\user\OneDrive - University of Hertfordshire\project\archive_preprocessed_new'
+base_output = r'C:\Users\user\OneDrive - University of Hertfordshire\project\archive_preprocessed'
 
 sets = ['train', 'val', 'test']
 classes = ['NORMAL', 'PNEUMONIA']
